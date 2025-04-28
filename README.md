@@ -1,5 +1,3 @@
-# Daniel Bauer
-
 ### About Me
 Hello! My name is Daniel Bauer and I am currently a student pursuing a bachelor of science in computer science at the University of Saint Thomas. I graduated from Cretin-Derham Hall in 2021 and soon will graduate St. Thomas in the summer of 2025. Some of my interests in the computer science field are IT and Cybersecurity. I am most interested in helping people use software and technology by creating easy to use interfaces along with accessible features to incorporate every person! My dream is to create a product that will incorporate these interests and help people succeed with learning how to use different technologies. 
 ### Skills
@@ -8,4 +6,11 @@ Hello! My name is Daniel Bauer and I am currently a student pursuing a bachelor 
 - IT: Troubleshooting, Operating Systems, Asset Management, and Networking Basics.
 - Cybersecurity: Secure Coding and Risk Management
 - Other: Problem Solving, Communication, Tean Collaboration, Leadership, and Adapting to new Technologies.
+
 ### Projects
+- Title: EZDocs
+  Description: An AI assisted technical documentation creator website for people new to creating documentation. The website offers precreated templates to guide users as well as allows them to use AI to generate other templates or check the users work and provide feedback and suggestions.
+  Figure:
+  Keywords:
+  My contributions: Frontend design and provided templates.
+  
