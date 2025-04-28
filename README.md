@@ -30,4 +30,5 @@ An AI-assisted technical documentation creator website for beginners. EZDocs off
 - Provided pre-created templates for users
 
 # Resume
+[View My Resume](./DanielBauer2024.pdf)
 
