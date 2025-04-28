@@ -1,16 +1,36 @@
-### About Me
-Hello! My name is Daniel Bauer and I am currently a student pursuing a bachelor of science in computer science at the University of Saint Thomas. I graduated from Cretin-Derham Hall in 2021 and soon will graduate St. Thomas in the summer of 2025. Some of my interests in the computer science field are IT and Cybersecurity. I am most interested in helping people use software and technology by creating easy to use interfaces along with accessible features to incorporate every person! My dream is to create a product that will incorporate these interests and help people succeed with learning how to use different technologies. 
-### Skills
-- Programming Languages: Python, Java, JavaScript, HTML, and CSS.
-- UI/UX Design: Figma, Human Computer Interaction, and Accessible Web Design.
-- IT: Troubleshooting, Operating Systems, Asset Management, and Networking Basics.
-- Cybersecurity: Secure Coding and Risk Management
-- Other: Problem Solving, Communication, Tean Collaboration, Leadership, and Adapting to new Technologies.
+# About Me
 
-### Projects
-- Title: EZDocs
-  Description: An AI assisted technical documentation creator website for people new to creating documentation. The website offers precreated templates to guide users as well as allows them to use AI to generate other templates or check the users work and provide feedback and suggestions.
-  Figure:
-  Keywords:
-  My contributions: Frontend design and provided templates.
-  
+Hello! My name is **Daniel Bauer**, and I am currently a student pursuing a Bachelor of Science in Computer Science at the University of Saint Thomas.  
+I graduated from Cretin-Derham Hall in 2021 and will graduate from St. Thomas in the summer of 2025.
+
+Some of my interests in the computer science field include **IT** and **Cybersecurity**.  
+I am passionate about helping people use software and technology by creating **easy-to-use interfaces** and incorporating **accessible features** for everyone.  
+My dream is to create a product that will incorporate these interests and help people succeed with learning new technologies.
+
+---
+
+# Skills
+
+- **Programming Languages**: Python, Java, JavaScript, HTML, CSS
+- **UI/UX Design**: Figma, Human-Computer Interaction, Accessible Web Design
+- **IT**: Troubleshooting, Operating Systems, Asset Management, Networking Basics
+- **Cybersecurity**: Secure Coding, Risk Management
+- **Other**: Problem Solving, Communication, Team Collaboration, Leadership, Adapting to New Technologies
+
+---
+
+# Projects
+
+## EZDocs
+
+**Description**:  
+An AI-assisted technical documentation creator website for beginners.  
+EZDocs offers pre-created templates to guide users, allows them to generate new templates using AI, and checks users’ work by providing feedback and suggestions.
+
+**Figure**: *(Optional: You can add an image or diagram here if you have one.)*
+
+**Keywords**: AI, Documentation, Web Development, User Assistance
+
+**My Contributions**:
+- Frontend design (UI/UX)
+- Provided pre-created templates for users
